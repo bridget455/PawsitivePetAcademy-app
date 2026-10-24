@@ -17,4 +17,4 @@ Home, About Us (history, vision, mission, goals), Courses (six-month and six-wee
 - The total is a quoted fee, not a formal invoice
 
 ## Team
-Bridget Ndaba (team leader), Reamohetse Rampine (secretary), Realeboha Makhanya, Quin-lyn Louw
+Bridget Ndaba (team leader), Reamohetse Rampine (secretary), Realeboha Makhanya.
